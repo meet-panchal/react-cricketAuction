@@ -1,0 +1,21 @@
+.custContainer {
+  width: 60%;
+  margin: 5px auto;
+}
+
+.custBorder {
+  border: 2px solid black;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.customImage {
+  width: 100%;
+}
+
+.background {
+  height: 90vh;
+  background-image: url("../images/449742-PGISQA-388.jpg");
+}
