@@ -97,20 +97,12 @@ export default class PlayerInfo extends Component {
         timerProgressBar: true,
         onBeforeOpen: () => {
           Swal.showLoading();
-          /*           timerInterval = setInterval(() => {
-            Swal.getContent().querySelector(
-              "p"
-            ).textContent = Swal.getTimerLeft();
-          }, 100); */
         },
         onClose: () => {
           clearInterval(timerInterval);
         }
       }).then(result => {
-        if (
-          /* Read more about handling dismissals below */
-          result.dismiss === Swal.DismissReason.timer
-        ) {
+        if (result.dismiss === Swal.DismissReason.timer) {
           console.log("I was closed by the timer"); // eslint-disable-line
         }
       });
@@ -279,7 +271,6 @@ export default class PlayerInfo extends Component {
         </div>
         {this.state.modal ? (
           <MDBContainer>
-            {/* <MDBBtn onClick={this.toggle}>Modal</MDBBtn> */}
             <MDBModal isOpen={this.state.modal} toggle={this.toggle}>
               <MDBModalHeader toggle={this.toggle}>Select Team</MDBModalHeader>
               <MDBModalBody>
