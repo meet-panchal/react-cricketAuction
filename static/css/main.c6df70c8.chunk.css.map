@@ -1,0 +1,1 @@
+{"version":3,"sources":["PlayerInfo.css"],"names":[],"mappings":"AAAA,eACE,SAAU,CACV,eACF,CAEA,YACE,qBACF,CAEA,SACE,cACF,CAEA,aACE,UACF","file":"main.c6df70c8.chunk.css","sourcesContent":[".custContainer {\n  width: 75%;\n  margin: 5px auto;\n}\n\n.custBorder {\n  border: 2px solid black;\n}\n\n.pointer {\n  cursor: pointer;\n}\n\n.customImage {\n  width: 100%;\n}\n"]}

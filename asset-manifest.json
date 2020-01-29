@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-cricketAuction/static/css/main.c6df70c8.chunk.css",
+    "main.js": "/react-cricketAuction/static/js/main.4dab343c.chunk.js",
+    "main.js.map": "/react-cricketAuction/static/js/main.4dab343c.chunk.js.map",
+    "runtime-main.js": "/react-cricketAuction/static/js/runtime-main.08b51305.js",
+    "runtime-main.js.map": "/react-cricketAuction/static/js/runtime-main.08b51305.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/react-cricketAuction/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c21e3d61.chunk.js": "/react-cricketAuction/static/js/2.c21e3d61.chunk.js",
+    "static/js/2.c21e3d61.chunk.js.map": "/react-cricketAuction/static/js/2.c21e3d61.chunk.js.map",
+    "index.html": "/react-cricketAuction/index.html",
+    "precache-manifest.5aaba770f201f4e158543d581acd9c9d.js": "/react-cricketAuction/precache-manifest.5aaba770f201f4e158543d581acd9c9d.js",
+    "service-worker.js": "/react-cricketAuction/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/react-cricketAuction/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.c6df70c8.chunk.css.map": "/react-cricketAuction/static/css/main.c6df70c8.chunk.css.map",
+    "static/js/2.c21e3d61.chunk.js.LICENSE": "/react-cricketAuction/static/js/2.c21e3d61.chunk.js.LICENSE",
+    "static/media/profile_pic.jpg": "/react-cricketAuction/static/media/profile_pic.2bce62de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08b51305.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c21e3d61.chunk.js",
+    "static/css/main.c6df70c8.chunk.css",
+    "static/js/main.4dab343c.chunk.js"
+  ]
+}
